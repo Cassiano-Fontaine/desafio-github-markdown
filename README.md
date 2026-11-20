@@ -51,7 +51,7 @@ Para realizar a atividade, convidei a Débora para colaborar comigo. Eu fiquei r
 - [x] Criar o repositório público.
 - [x] Adicionar o arquivo README.
 - [x] Convidar uma colaboradora.
-- [ ] Finalizar a documentação.
+- [x] Finalizar a documentação.
 - [ ] Realizar alterações em uma nova branch.
 - [ ] Abrir uma Issue e um Pull Request.
 - [ ] Revisar e integrar as alterações.
