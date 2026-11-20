@@ -52,9 +52,9 @@ Para realizar a atividade, convidei a Débora para colaborar comigo. Eu fiquei r
 - [x] Adicionar o arquivo README.
 - [x] Convidar uma colaboradora.
 - [x] Finalizar a documentação.
-- [ ] Realizar alterações em uma nova branch.
-- [ ] Abrir uma Issue e um Pull Request.
-- [ ] Revisar e integrar as alterações.
+- [x] Realizar alterações em uma nova branch.
+- [x] Abrir uma Issue e um Pull Request.
+- [x] Revisar e integrar as alterações.
 
 
 ---
